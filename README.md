@@ -13,4 +13,4 @@ ox_lib
 ox_target
 
 ### Preview: https://youtu.be/XUfPRGEm9_I
-### Discord: https://discord.gg/zDK4CHQ56N
+### Discord: https://discord.gg/pjbH86Wc95
