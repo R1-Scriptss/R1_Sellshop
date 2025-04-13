@@ -1,19 +1,16 @@
-R1_Sellshop
+# R1_Sellshop
 An advanced fishing script that enchances the roleplay on your server!
 
-Features
+## Features
 Supports ESX
-Create as many zones as you wish!
-Fish anywhere
-Level & XP system
-Freelancer job
-Boat renting included
-ox_target/qtarget/qb-target support
+ox_target support
 Very low resmon - 0.0ms on idle
 Installation files included
-Dependencies:
-es_extended/qb-core
+
+## Dependencies:
+es_extended
 ox_lib
 ox_target
-Preview: https://youtu.be/XUfPRGEm9_I
-Discord: https://discord.gg/zDK4CHQ56N
+
+### Preview: https://youtu.be/XUfPRGEm9_I
+### Discord: https://discord.gg/zDK4CHQ56N
