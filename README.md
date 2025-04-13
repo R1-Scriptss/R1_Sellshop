@@ -1,5 +1,5 @@
 # R1_Sellshop
-An advanced fishing script that enchances the roleplay on your server!
+An advanced sell shop script that enchances the roleplay on your server!
 
 ## Features
 Supports ESX
