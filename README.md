@@ -12,5 +12,5 @@ An advanced sell shop script that enchances the roleplay on your server!
 - ox_lib
 - ox_target
 
-### Preview: https://youtu.be/XUfPRGEm9_I
+### Preview: https://youtu.be/yUPV3V9rcns?si=emzRyZf2f67gWG8C
 ### Discord: https://discord.gg/pjbH86Wc95
