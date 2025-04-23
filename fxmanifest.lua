@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'R1'
+author 'R1-Scripts'
 description 'Premuim Sell Shop'
 version '1.0.0'
 

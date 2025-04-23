@@ -84,6 +84,6 @@ function openAmountInput(zoneKey, item)
     })
 
     if input and input[1] then
-        TriggerServerEvent('fonky_sell:sellItem', zoneKey, item, tonumber(input[1]))
+        TriggerServerEvent('r1_sell:sellItem', zoneKey, item, tonumber(input[1]))
     end
 end

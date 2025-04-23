@@ -17,7 +17,7 @@ Config.SellZones = {
         }
     },
 
-    ["vymenik_kovarna"] = {
+    ["pawn"] = {
         npc = {
             model = "cs_orleans",
             coords = vector4(210.1464, 360.2750, 89.7271, 303.7862)

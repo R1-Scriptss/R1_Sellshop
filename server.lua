@@ -1,4 +1,4 @@
-RegisterServerEvent('fonky_sell:sellItem', function(zoneKey, item, amount)
+RegisterServerEvent('r1_sell:sellItem', function(zoneKey, item, amount)
     local src = source
     local xPlayer = src
 
